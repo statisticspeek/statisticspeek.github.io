@@ -1,0 +1,17 @@
+# Jekyll generated
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# System
+.DS_Store
+Thumbs.db
+
+# Local drafts/working files
+_drafts/
+*.bak
+*.tmp
+
+# Source files (Word/Excel originals)
+sources/
