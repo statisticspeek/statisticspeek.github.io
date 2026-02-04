@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La vivienda en la ECV del INE. Desglose declarantes/no declarantes"
-date: 2025-01-25
+date: 2026-01-25
 ---
 
 La última ECV del INE, relativa a 2024 pero con datos de renta del año anterior, muestra un crecimiento del 0,9% en el número de hogares (170 mil) pero casi un 10% en el número de hogares en alquiler (350 mil) que se aproxima a los 4 millones o el 20,4% de los hogares.
