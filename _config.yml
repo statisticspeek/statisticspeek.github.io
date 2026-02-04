@@ -1,0 +1,8 @@
+title: Statistics Peek
+description: Pequeños informes estadísticos
+theme: minima
+
+# Better table rendering
+markdown: kramdown
+kramdown:
+  input: GFM
