@@ -3,6 +3,11 @@
 
 @import "minima";
 
+/* Hide header and footer */
+.site-header, .site-footer {
+  display: none;
+}
+
 /* Reduce margins */
 .site-content, .page-content, .post-content, .wrapper, .post {
   max-width: 100% !important;
