@@ -7,9 +7,17 @@ part: 1
 ---
 
 *Este es el primer artículo de una serie sobre fiscalidad en España.
-Próximas entregas: impuestos sobre el capital, tributación corporativa en
-jurisdicciones de baja fiscalidad (Irlanda, Luxemburgo, Países Bajos) y
-comparativa con países europeos de tamaño comparable.*
+El [segundo artículo](/2026/02/10/transferencias-carga-neta-espana.html)
+completa este análisis añadiendo las transferencias del Estado (pensiones,
+sanidad, educación, prestaciones sociales) y calcula la carga fiscal neta.*
+
+> **Nota del autor.** Este estudio analiza exclusivamente los impuestos
+> pagados, no lo que el ciudadano recibe a cambio. Sin las transferencias
+> del Estado, la foto queda incompleta: el sistema fiscal español es
+> fuertemente redistributivo y el 60% de los hogares son receptores netos.
+> La U invertida que aquí se describe persiste incluso tras las
+> transferencias, pero su magnitud se reduce drásticamente. Se recomienda
+> leer ambos estudios conjuntamente.
 
 ---
 
