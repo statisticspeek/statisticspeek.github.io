@@ -89,6 +89,39 @@ proceso:
 
 *Fuentes: microdatos EFF (8 olas, 2002-2022), BdE, SUERF, BIS.*
 
+### Estudio 5. Vivienda: propiedad, alquiler y concentración *(pendiente)*
+
+¿Cómo se distribuye la propiedad de viviendas por nivel de renta? ¿Existe
+concentración oligopolística en el mercado del alquiler? ¿Qué cuota tienen
+los grandes tenedores y las Socimis? Análisis del esfuerzo de vivienda por
+decil y de las viviendas vacías frente a la demanda de alquiler.
+
+*Fuentes previstas: BdE (EFF), Catastro, AEAT, INE (Censo y ECV), CNMV.*
+
+### Estudio 6. Rentas del capital vs. trabajo *(pendiente)*
+
+Comparación del tipo efectivo que soportan las rentas del trabajo frente a
+las del capital (dividendos, ganancias patrimoniales, intereses). Base
+imponible general vs. base del ahorro por tramo de renta en el IRPF.
+
+*Fuentes previstas: AEAT (estadística de declarantes del IRPF).*
+
+### Estudio 7. Tributación corporativa en la UE *(pendiente)*
+
+Tipos nominales vs. efectivos del Impuesto de Sociedades en Irlanda (12,5%),
+Luxemburgo y Países Bajos. Cuánto beneficio generado en España tributa fuera
+del país a través de estructuras multinacionales.
+
+*Fuentes previstas: EUROSTAT, OCDE (BEPS), Tax Justice Network.*
+
+### Estudio 8. Comparativa de carga fiscal europea *(pendiente)*
+
+Cuña fiscal por país y nivel salarial. Ingresos fiscales como porcentaje del
+PIB por tipo de impuesto. Países de referencia: Francia, Italia, Alemania,
+Reino Unido y Suecia.
+
+*Fuentes previstas: OCDE (Taxing Wages), EUROSTAT.*
+
 ---
 
 ## Otros análisis
