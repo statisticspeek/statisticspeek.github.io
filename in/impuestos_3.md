@@ -562,16 +562,24 @@ herramienta redistributiva intergeneracional.
 
 1. Banco de España (2024). *Encuesta Financiera de las Familias (EFF) 2022:
    métodos, resultados y cambios desde 2020*. Documento Ocasional 2413.
+   [(PDF)](https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosOcasionales/24/Fich/do2413.pdf)
 2. Conde-Ruiz, J.I. y García-Rodríguez, F. (2025). *Evolución de la Riqueza
    de las Familias en España (2002-2022): Niveles, Composición y Fractura
    Generacional*. FEDEA, Estudios sobre la Economía Española 2025/23.
+   [(PDF)](https://documentos.fedea.net/pubs/eee/2025/eee2025-23.pdf)
 3. BCE (2023). *Household Finance and Consumption Survey, Wave 4 (2021)*.
    Statistical Tables, julio 2023.
+   [(PDF)](https://www.ecb.europa.eu/home/pdf/research/hfcn/HFCS_Statistical_Tables_Wave_2021_July2023.pdf)
 4. Eurofound (2023). *A picture of wealth inequality across EU Member States*.
+   [(Web)](https://www.eurofound.europa.eu/en/publications/all/a-picture-of-wealth-inequality-across-eu-member-states)
 5. AEAT (2024). *Estadística de los declarantes del Impuesto sobre el
    Patrimonio 2022-2023*.
+   [(Web)](https://sede.agenciatributaria.gob.es/Sede/datosabiertos/catalogo/hacienda/Estadistica_de_los_declarantes_del_Impuesto_sobre_el_Patrimonio.shtml)
 6. AEAT (2024). *Informe Anual de Recaudación Tributaria 2023*.
+   [(PDF)](https://sede.agenciatributaria.gob.es/static_files/AEAT/Estudios/Estadisticas/Informes_Estadisticos/Informes_Anuales_de_Recaudacion_Tributaria/Ejercicio_2023/IART23_es_es.pdf)
 7. Banco de España (2024). Blog: *El análisis de la riqueza en España: 20 años
    de la Encuesta Financiera de las Familias*.
+   [(Web)](https://www.bde.es/wbe/en/noticias-eventos/blog/el-analisis-de-la-riqueza-en-espana-20-anos-de-la-encuesta-financiera-de-las-familias.html)
 8. OCDE (2025). *Mapping trends and gaps in household wealth across OECD
    countries*.
+   [(PDF)](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/mapping-trends-and-gaps-in-household-wealth-across-oecd-countries_37e92f18/4bb6ec53-en.pdf)
