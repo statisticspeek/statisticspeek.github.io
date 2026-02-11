@@ -64,7 +64,7 @@ mediana de 20.000 EUR frente a 226.000 EUR de los mayores de 65.
 ### Estudio 4. [La Encuesta Financiera de las Familias: qué mide, qué no, y cómo de bien]({{ site.baseurl }}/2026/02/11/fiabilidad-eff-encuesta-financiera-familias.html)
 
 Antes de sacar conclusiones de los datos de riqueza, conviene preguntarse:
-¿qué tan fiable es la encuesta que los produce? La EFF (Encuesta Financiera
+¿cómo de fiable es la encuesta que los produce? La EFF (Encuesta Financiera
 de las Familias) del Banco de España visita personalmente a unas 6.300
 familias y, a partir de sus respuestas, extrapola al conjunto de los 18,8
 millones de hogares españoles. Este estudio examina los puntos débiles de ese
