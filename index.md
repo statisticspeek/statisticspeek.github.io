@@ -19,11 +19,18 @@ Estado (carga neta), y cómo se distribuye la riqueza acumulada.
 ### Estudio 1. [Carga fiscal total del asalariado: un análisis de progresividad]({{ site.baseurl }}/2026/02/09/impuestos-progresivos-espana.html)
 
 La carga fiscal total — IRPF, cotizaciones sociales, IVA e impuestos
-especiales — dibuja una **U invertida**: sube hasta un máximo del 67,8% del
-salario bruto en el tramo de 56.000 EUR y después desciende hasta el 52,6%
-para salarios de 281.000 EUR. El mecanismo principal es la base máxima de
-cotización, que convierte las cotizaciones sociales en un tributo regresivo
-por encima de 61.214 EUR/año.
+especiales — dibuja una **U invertida**: sube hasta un máximo del **67,8%**
+del salario bruto en el tramo de 56.388 EUR y después desciende: 64,9% para
+71k, 61,8% para 89k, 58,0% para 128k y **52,6% para 281k**. El asalariado
+que gana 56.000 EUR paga proporcionalmente más que el que gana 280.000 EUR.
+
+Las cotizaciones sociales son el tributo más regresivo del sistema: un
+asalariado de 56.000 EUR paga un 37,15% en SS total (empresa + trabajador);
+uno de 280.000 EUR, un 9,21% — un ratio de **4:1**. La cotización adicional
+de solidaridad apenas compensa: añade solo ~0,4 puntos para un salario de
+280.000 EUR. Sin embargo, medida como porcentaje del coste laboral total, la
+carga es sorprendentemente plana (48-52%) para todos los tramos medios-altos
+y nunca supera el 52%.
 
 *Fuentes: INE (Encuesta de Presupuestos Familiares 2024), AEAT (Mercado de
 Trabajo en las Fuentes Tributarias 2023).*
@@ -35,7 +42,11 @@ desempleo, sanidad y educación públicas. El **60% de los hogares son
 receptores netos** del Estado. El Gini pasa de 0,497 (renta de mercado) a
 0,327 (renta final), una reducción del 34%. Sin embargo, la U invertida
 persiste: el percentil 91-99 soporta una carga neta del -23,6% frente al
--18,1% del top 1%.
+-18,1% del top 1%. Se identifica además una **transferencia oculta de rentas
+medias a rentas altas** dentro de la Seguridad Social: quienes ganan 50.000 EUR
+cotizan al 37,15% y financian pensiones de hasta 39.000 EUR/año para jubilados
+que, cuando trabajaban, cotizaban al 5-9% efectivo gracias al tope de
+cotización.
 
 *Fuentes: FEDEA (9.º Informe del Observatorio, datos 2022).*
 
