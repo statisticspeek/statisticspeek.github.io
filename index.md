@@ -52,9 +52,9 @@ cotización.
 
 ### Estudio 3. [Distribución de la riqueza en España: quién posee qué y cómo tributa]({{ site.baseurl }}/2026/02/11/distribucion-riqueza-espana.html)
 
-La desigualdad de riqueza es mucho mayor que la de renta: Gini de **0,687**
-(patrimonio neto) frente a 0,497 (renta bruta). El 1% más rico posee el
-**21,1%** de toda la riqueza; la mitad más pobre, apenas el 7,1%. La
+La desigualdad de renta en España ya es elevada (Gini de 0,497), pero la de
+riqueza es aún mayor: Gini de **0,687** en patrimonio neto. El 1% más rico
+posee el **21,1%** de toda la riqueza; la mitad más pobre, apenas el 7,1%. La
 desigualdad va en aumento (Gini de 0,576 en 2002 a 0,687 en 2022) y existe
 una fractura generacional en expansión: los menores de 35 tienen una riqueza
 mediana de 20.000 EUR frente a 226.000 EUR de los mayores de 65.
@@ -63,14 +63,29 @@ mediana de 20.000 EUR frente a 226.000 EUR de los mayores de 65.
 
 ### Estudio 4. [La Encuesta Financiera de las Familias: qué mide, qué no, y cómo de bien]({{ site.baseurl }}/2026/02/11/fiabilidad-eff-encuesta-financiera-familias.html)
 
-Análisis metodológico del instrumento de medida. La EFF entrevista a ~6.300
-hogares para representar a 18,8 millones, pero el tamaño muestral efectivo se
-reduce a 1.100-1.800 por el sobremuestreo de ricos (DEFF = 2-4). El 40-45%
-de los contactados rechazan participar y la no respuesta es selectiva. La
-encuesta captura solo el **53% de los depósitos** bancarios frente a las
-Cuentas Nacionales, pero las deudas se reportan bien (95-107%). Los sesgos
-son estables entre olas, lo que hace las tendencias temporales más fiables
-que los niveles absolutos.
+Antes de sacar conclusiones de los datos de riqueza, conviene preguntarse:
+¿qué tan fiable es la encuesta que los produce? La EFF (Encuesta Financiera
+de las Familias) del Banco de España visita personalmente a unas 6.300
+familias y, a partir de sus respuestas, extrapola al conjunto de los 18,8
+millones de hogares españoles. Este estudio examina los puntos débiles de ese
+proceso:
+
+- **Mucha gente no contesta.** Entre el 40% y el 45% de los hogares
+  contactados rechazan participar, y quienes no contestan tienden a ser
+  distintos de quienes sí lo hacen (más ricos, más urbanos), lo que puede
+  sesgar los resultados.
+- **Las familias no declaran todo.** Comparando con los datos agregados del
+  sistema bancario, la encuesta solo recoge el **53% de los depósitos** reales
+  del país. Las deudas, en cambio, se declaran bien (95-107%), probablemente
+  porque son más difíciles de olvidar u ocultar.
+- **La muestra efectiva es pequeña.** Aunque se entrevistan 6.300 hogares, el
+  diseño muestral (que deliberadamente busca más hogares ricos para poder
+  estudiarlos) hace que la muestra equivalga en precisión a solo 1.100-1.800
+  hogares elegidos al azar.
+- **Lo que sí funciona bien**: los sesgos son estables entre olas, lo que
+  significa que las **tendencias temporales** (cómo cambia la desigualdad de
+  2002 a 2022) son más fiables que los niveles absolutos de cualquier año
+  concreto.
 
 *Fuentes: microdatos EFF (8 olas, 2002-2022), BdE, SUERF, BIS.*
 
