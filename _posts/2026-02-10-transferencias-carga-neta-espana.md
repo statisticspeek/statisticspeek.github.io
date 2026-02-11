@@ -436,16 +436,28 @@ altas. Esto reduce su carga neta.
 
 ### 5.1 Comparación con el Estudio 1
 
-| Concepto | Estudio 1 (modelo) | Estudio 2 (FEDEA real) |
+| Concepto | Estudio 1 (datos AEAT/INE + modelo fiscal) | Estudio 2 (datos observados FEDEA) |
 |---|---|---|
 | Población | Asalariados con contrato | Todos los hogares |
-| Fuente | INE + AEAT + modelo | FEDEA (microdatos ECV + registros admin.) |
+| Fuente | Salarios reales AEAT + gasto real INE + escala IRPF teórica | Microdatos ECV + registros administrativos AEAT/SS |
+| Método | Calcula impuestos teóricos sobre salarios reales | Observa impuestos realmente pagados por cada hogar |
 | Carga bruta pico | 67.8% en 56.000 EUR (como % bruto) | 38.9% en D9 / 89.000 EUR (TME) |
 | U invertida bruta | Sí (cae 15.2pp hasta 281k) | Sí (cae 14.8pp hasta top 1%) |
 | Carga neta | No calculada | -23.6% (P91-99) vs -18.1% (top 1%) |
 | U invertida neta | No calculada | **Sí** (cae 5.5pp en el top 1%) |
 
-Las cifras absolutas difieren porque las poblaciones y las métricas
+Ambos estudios parten de datos reales, pero el método difiere: el
+Estudio 1 **calcula** la carga fiscal teórica aplicando la normativa
+vigente a los salarios reales de cada tramo (y la valida contra los
+agregados de la AEAT, con un ajuste del 17.29% vs 17.30%). FEDEA, en
+cambio, **observa** los impuestos que cada hogar pagó realmente, lo que
+captura deducciones, rentas del capital, sociedades interpuestas y
+cualquier otra circunstancia individual. Por eso el IRPF efectivo del
+top 1% es del 10.5% en FEDEA (lo que realmente pagaron) frente al
+40%+ que predice un modelo de asalariado puro (lo que teóricamente
+les correspondería).
+
+Las cifras absolutas también difieren porque las poblaciones y métricas
 son distintas: el Estudio 1 mide la carga como porcentaje del salario
 bruto individual e incluye la SS empresarial como porcentaje del bruto;
 FEDEA mide el tipo medio efectivo (TME) sobre la renta bruta del hogar.
