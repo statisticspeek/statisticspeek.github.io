@@ -296,10 +296,11 @@ las deducciones familiares y autonómicas los reducen en la práctica.
 | 7.5-10 SMI | 128.465 | 23.653 | **18.41%** |
 | 10+ SMI | 280.847 | 25.877 | **9.21%** |
 
-Las cotizaciones son el tributo más regresivo del sistema. Un asalariado
-de 56.000 EUR paga un 37.15% en SS total; uno de 280.000 EUR, un 9.21%.
-Ratio 4:1. La cotización adicional de solidaridad apenas compensa: añade
-solo ~0.4 puntos para un salario de 280.000 EUR.
+Las cotizaciones son el tributo más regresivo del sistema. Medidas como
+porcentaje del salario bruto, **solo en concepto de SS**: un asalariado
+de 56.000 EUR paga un 37.15%; uno de 280.000 EUR, un 9.21%. Ratio 4:1.
+La cotización adicional de solidaridad apenas compensa: añade solo ~0.4
+puntos para un salario de 280.000 EUR.
 
 ### 4.4 Carga fiscal total: la U invertida
 
@@ -350,8 +351,12 @@ En el escenario B, la carga fiscal describe una U invertida:
 - **El asalariado que gana 56.000 EUR paga proporcionalmente más que
   el que gana 280.000 EUR** (67.8% vs 52.6%).
 
-Como porcentaje del coste laboral, la carga es sorprendentemente plana
-(48-52%) para todos los tramos medios-altos, pero nunca supera el 52%.
+**Nota importante:** como porcentaje del coste laboral, la carga *total*
+(IRPF + SS + IVA) es sorprendentemente plana (48-52%) para todos los
+tramos medios-altos. Esto no contradice la regresividad de la SS: lo que
+ocurre es que el IRPF sube (+17pp de 56k a 281k) mientras la SS baja
+(-28pp), y se compensan parcialmente. Además, el denominador aquí es el
+coste laboral (bruto + SS empresa), que es mayor que el salario bruto.
 
 ![Carga fiscal total: la U invertida](/assets/images/impuestos/u_invertida.png)
 
@@ -571,9 +576,13 @@ causado por:
    del sistema.
 
 2. **Las cotizaciones a la Seguridad Social son el tributo más regresivo**
-   del sistema. La base máxima de cotización (61.214 EUR/año) hace que un
-   asalariado de 56.000 EUR pague un 37.15% en SS total, frente al 9.21%
-   de uno de 280.000 EUR.
+   del sistema. La base máxima de cotización (61.214 EUR/año) hace que,
+   medido solo en concepto de SS como porcentaje del salario bruto, un
+   asalariado de 56.000 EUR pague un 37.15% frente al 9.21% de uno de
+   280.000 EUR. Sin embargo, cuando se suman todos los impuestos (IRPF +
+   SS + IVA), la carga total sobre el coste laboral queda en el rango
+   48-52% para los tramos medios-altos, porque el IRPF compensa
+   parcialmente la caída de la SS.
 
 3. **El IVA es regresivo como porcentaje de la renta**, con un ratio de
    4:1 entre el tramo más bajo y el más alto. Los tipos reducidos no
