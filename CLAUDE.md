@@ -37,7 +37,7 @@ publica) y su salida publicable va al **escaparate** (este repo, Memoteca).
 | Tema | Taller (fuentes) | Escaparate (aquí) |
 |---|---|---|
 | Plantas solares | `../solares` (`memoteca/solares`) | posts `plantas-solares-*`, `docs/solares/`, `assets/mapa_envatios_xxiv.html` |
-| Estadística | `../estadistica` (repo local; remoto pendiente) | posts (vivienda, impuestos, movilidad, Japón…), `assets/images/<tema>/` |
+| Estadística | `../estadistica` (`memoteca/estadistica`) | posts (vivienda, impuestos, movilidad, Japón…), `assets/images/<tema>/` |
 
 **Regla para temas nuevos:** las **fuentes** van a un taller hermano `../<tema>`
 (como `../solares`); la **publicación** aterriza aquí con estructura por tema
